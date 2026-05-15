@@ -5,7 +5,7 @@ A simple video frame extractor for macOS.
 - macOS 13.5 or later
 
 ## Usage
-Since EasySnap is not code-signed, you need to run the following command
+Since EasySnap is not code-signed yet, you need to run the following command
 in Terminal before opening the app for the first time:
 
 ```bash
