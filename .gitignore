@@ -13,6 +13,9 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+## Binaries
+ffmpeg
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
