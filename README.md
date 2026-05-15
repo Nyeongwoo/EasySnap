@@ -2,7 +2,12 @@
 A simple video frame extractor for macOS.
 
 ## Requirements
-- macOS 13.5 or later
+- macOS 14.6 or later
+- Place the `ffmpeg` binary inside the app bundle at:
+`EasySnap+/Resources/ffmpeg`
+
+Download: https://ffmpeg.org/download.html
+
 
 ## Usage
 Since EasySnap is not code-signed yet, you need to run the following command
